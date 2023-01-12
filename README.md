@@ -1,5 +1,5 @@
 # p_planner
-Planner for the 'P'(perceiving) people. 
+The Planner for the 'P'(perceiving) people. 
 
 > `미루는 습관`에 고통받는 사람들을 위한 p_planner. <br>
 > 제대로 못할거면 더 하기 싫은. `완벽주의자`를 위한 `INFP`_planner. <br>
